@@ -1,0 +1,3 @@
+value,tag,default
+Valor do cashback diário não foi pago,promoções_cassino_cashback_categoria_valordocashbackdiárionãofoipago,False
+Valor do cashback semanal não foi pago,promoções_cassino_cashback_categoria_valordocashbacksemanalnãofoipago,False
